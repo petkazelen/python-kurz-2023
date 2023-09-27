@@ -1,2 +1,2 @@
 jmeno = "petra"
-print("petra" + "@czechitas.cz")
+print(jmeno + "@czechitas.cz")
